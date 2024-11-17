@@ -9,7 +9,7 @@ This repository cover the following topics:
 - Visualizing two-dimensional data using heatmap
 - Displaying images using Matplotlib's `plt.imshow` and explain in the note book.
 
-## Summary and Further Reading
+## Summary
 
 Covered the following topics :
 
