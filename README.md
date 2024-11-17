@@ -1,5 +1,5 @@
-# Data_Science_Project
-#### Matplotlib
+# Data_Science_Project_matplotlib
+
 This repository cover the following topics:
 
 - Install the matplotlib's and Seaborn packages
