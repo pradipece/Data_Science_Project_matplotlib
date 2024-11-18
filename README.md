@@ -1,4 +1,4 @@
-# Data_Science_Project_matplotlib
+# Two-dimensional data visualization_matplotlib
 
 This repository cover the following topics:
 
