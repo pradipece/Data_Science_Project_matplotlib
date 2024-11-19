@@ -1,5 +1,5 @@
 # Two-dimensional data visualization
-<br>matplotlib </br>
+###### Matplotlib
 This repository cover the following topics:
 
 - Install the matplotlib's and Seaborn packages
